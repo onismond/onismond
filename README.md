@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![onismond's GitHub Stats](https://www.githubstats.tech/api/card?username=onismond&theme=catppuccin-mocha&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=1&show_top_repo=1&show_profile=0&show_top_percent=1&contrib_stars=1)](https://www.githubstats.tech)
 <!--
 **onismond/onismond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
